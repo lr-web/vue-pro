@@ -1,0 +1,1 @@
+import{d as a,a as t,z as s,A as u,aG as n}from"./arco-5f5cab8b.js";const o={class:"main"},p=a({__name:"index",setup(c){const e=t("hhhhh,\u8FD9\u662F\u4E00\u4E2A\u4E00\u7EA7\u83DC\u5355\u6D4B\u8BD5\u9875\u9762");return(r,_)=>(s(),u("div",o,n(e.value),1))}});export{p as default};
